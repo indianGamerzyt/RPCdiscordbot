@@ -54,7 +54,7 @@
     "@electron-forge/maker-squirrel": "^6.0.3",
     "@types/discord-rpc": "^4.0.3",
     "@types/node": "^18.11.9",
-    "electron": "^22.0.0"
+    "electron": "^28.1.1"
   },
   "packageManager": "yarn@3.3.0"
 }
