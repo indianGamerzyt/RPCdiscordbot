@@ -327,12 +327,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@electron/remote@npm:^2.0.8":
-  version: 2.0.8
-  resolution: "@electron/remote@npm:2.0.8"
+"@electron/remote@npm:^2.1.2":
+  version: 2.1.2
+  resolution: "@electron/remote@npm:2.1.2"
   peerDependencies:
     electron: ">= 13.0.0"
-  checksum: d0ef11b3f09d789baf4330c2c021cfc1a997fc5ffdb56e8810ed7fe2fd76cda1a168c0589d2a10284a907fd3829bae14002a58b35c4881473cdd0049f07fbd63
+  checksum: 24d49aa494b12f1f791b322850f4e29ac69ec57b318d01f1b9e216807886ba1c3dcf9dc1508a18b8daf3ea3c58f8131e1dcf863ba246cfe3554c8ec872a50d10
   languageName: node
   linkType: hard
 
@@ -1296,7 +1296,7 @@ __metadata:
     "@electron-forge/maker-dmg": ^6.0.3
     "@electron-forge/maker-rpm": ^6.0.3
     "@electron-forge/maker-squirrel": ^6.0.3
-    "@electron/remote": ^2.0.8
+    "@electron/remote": ^2.1.2
     "@types/discord-rpc": ^4.0.3
     "@types/node": ^18.11.9
     copy-to-clipboard: ^3.3.3
