@@ -523,7 +523,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.11.9":
+"@types/node@npm:*":
   version: 18.14.0
   resolution: "@types/node@npm:18.14.0"
   checksum: d83fcf5e4ed544755dd9028f5cbb6b9d46235043159111bb2ad62223729aee581c0144a9f6df8ba73d74011db9ed4ebd7af2fd5e0996714e3beb508a5da8ac5c
@@ -534,6 +534,15 @@ __metadata:
   version: 16.18.12
   resolution: "@types/node@npm:16.18.12"
   checksum: fc3271182414f8593018ef8f00b4718116a92f463f619081bd399d9460e7861e1dd7eebc7cf94c23567e418ff397babed077011711aae8d47171b5a81c5bd71d
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^20.11.25":
+  version: 20.11.25
+  resolution: "@types/node@npm:20.11.25"
+  dependencies:
+    undici-types: ~5.26.4
+  checksum: bdb29da3f3dc687a0104cb70e30b5277d9df8f22843a4ed94835762683a95a8a0ea0c2ed0cf96f6eeff348491dd50dd9b20307d08f71ba7cb489d54a81cbbfec
   languageName: node
   linkType: hard
 
@@ -1298,7 +1307,7 @@ __metadata:
     "@electron-forge/maker-squirrel": ^6.0.3
     "@electron/remote": ^2.0.8
     "@types/discord-rpc": ^4.0.3
-    "@types/node": ^18.11.9
+    "@types/node": ^20.11.25
     copy-to-clipboard: ^3.3.3
     discord-rpc: ^4.0.1
     electron: ^22.0.0
@@ -4140,6 +4149,13 @@ __metadata:
   version: 0.21.3
   resolution: "type-fest@npm:0.21.3"
   checksum: e6b32a3b3877f04339bae01c193b273c62ba7bfc9e325b8703c4ee1b32dc8fe4ef5dfa54bf78265e069f7667d058e360ae0f37be5af9f153b22382cd55a9afe0
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~5.26.4":
+  version: 5.26.5
+  resolution: "undici-types@npm:5.26.5"
+  checksum: 3192ef6f3fd5df652f2dc1cd782b49d6ff14dc98e5dced492aa8a8c65425227da5da6aafe22523c67f035a272c599bb89cfe803c1db6311e44bed3042fc25487
   languageName: node
   linkType: hard
 
