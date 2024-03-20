@@ -53,7 +53,7 @@
     "@electron-forge/maker-rpm": "^6.0.3",
     "@electron-forge/maker-squirrel": "^6.0.3",
     "@types/discord-rpc": "^4.0.3",
-    "@types/node": "^18.11.9",
+    "@types/node": "^20.11.30",
     "electron": "^22.0.0"
   },
   "packageManager": "yarn@3.3.0"
